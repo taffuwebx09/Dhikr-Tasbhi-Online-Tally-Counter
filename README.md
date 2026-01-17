@@ -56,7 +56,7 @@ In this project, I practiced:
 
 ## 🚀 Live Demo
 
-👉 https://YOUR-USERNAME.github.io/islamic-tasbih-counter/
+👉 https://github.com/taffuwebx09/Dhikr-Tasbhi-Online-Tally-Counter
 
 ---
 
